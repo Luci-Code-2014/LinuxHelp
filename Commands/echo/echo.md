@@ -28,7 +28,7 @@ HelloWorld
 - 运行:
 ```
 [root@archlinux: ~] # echo -n "HelloWorld"
-HelloWorld[root@archlinux: ~] # 
+Please input: [root@archlinux: ~] # 
 ```
 
 - 命令: `echo -e "哦对了\n哦对了"`
